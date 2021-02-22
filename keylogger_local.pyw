@@ -80,5 +80,5 @@ class KL(object):
 
 
 if __name__ == '__main__':
-	logger = KL(interval=10)
+	logger = KL(interval=600)
 	logger.start_listen()
