@@ -105,5 +105,5 @@ class KL(object):
 
 
 if __name__ == '__main__':
-	logger = KL(interval=10, ftp_pass='', ftp_user='', ftp_host='', ftp_pub_folder='')
+	logger = KL(interval=600, ftp_pass='', ftp_user='', ftp_host='', ftp_pub_folder='')
 	logger.start_listen()
