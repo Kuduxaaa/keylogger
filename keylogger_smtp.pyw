@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import os
-import smtplib
 import keyboard
 import tempfile
 import shutil
