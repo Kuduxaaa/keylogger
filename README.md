@@ -25,8 +25,8 @@ $ pyarmor o keylogger_smtp.py
 
 ## Links
 
-![Keystroke Logging - Wikipedia](https://en.wikipedia.org/wiki/Keystroke_logging)
+[Keystroke Logging - Wikipedia](https://en.wikipedia.org/wiki/Keystroke_logging)
 
-![What is keylogger](https://www.csoonline.com/article/3326304/what-is-a-keylogger-how-attackers-can-monitor-everything-you-type.html)
+[What is keylogger](https://www.csoonline.com/article/3326304/what-is-a-keylogger-how-attackers-can-monitor-everything-you-type.html)
 
-![Cybercrime](https://en.wikipedia.org/wiki/Cybercrime)
+[Cybercrime](https://en.wikipedia.org/wiki/Cybercrime)
